@@ -1,0 +1,45 @@
+.ProgramFonds .row {
+  justify-content: center !important;
+}
+.ProgramFonds .rowBox {
+  padding-top: 3.125rem;
+  padding-left: 3.125rem;
+  padding-right: 3.125rem;
+  max-width: 34.0625rem !important;
+  margin-bottom: 2.5rem !important;
+}
+@media (min-width: 576px) {
+  .ProgramFonds .rowBox {
+    margin-right: 1.5625rem !important;
+  }
+}
+@media (max-width: 768px) {
+  .ProgramFonds .rowBox {
+    padding-top: 2.125rem;
+    padding-left: 2.125rem;
+    padding-right: 2.125rem;
+  }
+}
+.ProgramFonds .rowBox .ContentTitle {
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 96.4%;
+  color: #000;
+}
+.ProgramFonds .rowBox .ContentText {
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 96.4%;
+  padding-top: 1.25rem;
+  color: #000000;
+}
+.ProgramFonds .rowBox .ParentBtn {
+  display: flex;
+  justify-content: end;
+  margin-top: 3.5rem;
+}
+.ProgramFonds .rowBox .ParentBtn .ProgramBtn {
+  text-transform: capitalize !important;
+}
+
+/*# sourceMappingURL=programfonds.css.map */

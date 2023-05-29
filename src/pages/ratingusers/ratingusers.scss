@@ -1,0 +1,97 @@
+
+
+.TitleName{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  letter-spacing: 0.015625rem;
+  color: #00072B;
+}
+
+.Title2{
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #00072B;
+}
+
+.nav-dropdown{
+  i{
+    color: #B0BAC9;
+  }
+
+}
+
+.def-checkbox{
+  color: #DADADA !important;
+}
+
+b{
+  font-weight: 600;
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  color: #00072B;
+}
+
+.head{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: self-start;
+  b {
+    text-align: left;
+  }
+  input{
+    border: none;
+    color: #C9CFDA;
+  }::placeholder{
+       font-weight: 400;
+       font-size: 0.875rem;
+       line-height: 1.25rem;
+       color: #C9CFDA;
+     }
+
+
+}
+
+.head2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  .content1{
+    display: flex;
+
+    .icons{
+      display: flex;
+      flex-direction: column;
+      margin-left: 0.625rem;
+
+      .fa-caret-down{
+        margin-top: -0.3125rem;
+      }
+
+      i{
+        color: #B0BAC9;
+      }
+
+
+    }
+
+  }
+
+
+  .content2 {
+    span {
+
+    }
+
+    i{
+      margin-left: 1.25rem;
+      color: #DFE2E9;
+    }
+
+  }
+
+}
