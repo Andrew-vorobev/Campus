@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.044b3251.css",
+    "main.js": "/static/js/main.984e28db.js",
+    "static/js/787.918d188e.chunk.js": "/static/js/787.918d188e.chunk.js",
+    "static/media/GigaSans-Medium.eot": "/static/media/GigaSans-Medium.32038f95d14c4e9a62f6.eot",
+    "static/media/GigaSans-Medium.ttf": "/static/media/GigaSans-Medium.eade274fbb08a3aaeb68.ttf",
+    "static/media/diagram.svg": "/static/media/diagram.6ce561a5f652169e4a23f0e1300bae5b.svg",
+    "static/media/GigaSans-Medium.woff": "/static/media/GigaSans-Medium.7f4ef7dba790e89beab4.woff",
+    "static/media/GigaSans-Medium.woff2": "/static/media/GigaSans-Medium.4ef4b5878474173f304a.woff2",
+    "static/media/rounded-percent.svg": "/static/media/rounded-percent.5e2286f8815e7b1315d8ab9ebc9d89ae.svg",
+    "static/media/logo-site.svg": "/static/media/logo-site.053684633278bb7670b1dd264f5868a1.svg",
+    "index.html": "/index.html",
+    "main.044b3251.css.map": "/static/css/main.044b3251.css.map",
+    "main.984e28db.js.map": "/static/js/main.984e28db.js.map",
+    "787.918d188e.chunk.js.map": "/static/js/787.918d188e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.044b3251.css",
+    "static/js/main.984e28db.js"
+  ]
+}
